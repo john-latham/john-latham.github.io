@@ -1,0 +1,17 @@
+John Latham:
+  name: "John Latham"
+  email: "john.latham@lookinglocal.gov.uk"
+  bio: "CTO, Looking Local"
+  avatar: "/assets/images/author-jlatham.jpg"
+
+Lianne Viney:
+  name: "Lianne Viney"
+  email: "lianne.viney@lookinglocal.gov.uk"
+  bio: "Qualified PRINCE2 and Agile programme Director"
+  avatar: "/assets/images/author-lviney.jpg"
+
+Rhea Cunio:
+  name: "Rhea Cunio"
+  email: "rhea.cunio@lookinglocal.gov.uk"
+  bio: "Marketing and Communications, Looking Local"
+  avatar: "/assets/images/author-rcunio.jpg"
