@@ -23,16 +23,37 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+
+     <h2 class="archive__item-title" itemprop="headline">
+       {% if post.link %}
+       <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+       {% else %}
+       <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+       {% endif %}
+     </h2>
+
+    <div>
+
+      {% if post.author and site.data.authors[post.author] %}
+        {% assign author = site.data.authors[post.author] %}
+        <span class="page__meta" itemprop="name">{{ author.name }}</span>
       {% endif %}
-    </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+
+      {% if post.modified %}
+        <span class="page__meta"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> </strong> <time datetime="{{ post.modified | date: "%Y-%m-%d" }}">{{ post.modified | date: "%b %d, %Y" }}</time></span>
+      {% elsif post.date %}
+       <span class="page__meta"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> </strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
+      {% endif %}
+
+      {% if post.read_time %}
+        <span class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+      {% endif %}
+
+    </div>
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>
     {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+
   </article>
 </div>
