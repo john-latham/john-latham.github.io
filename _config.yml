@@ -7,14 +7,16 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Looking Local Blogs"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     :
+description              : "Looking Local | Solution architects to the public sector and beyond"
+url                      : "https://john-latham.github.io/"
+baseurl                  : #
+repository               : "john-latham/john-latham.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/logo.png"
+logo_url                 : "http://about.lookinglocal.gov.uk"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -70,42 +72,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google
   google:
-    tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+    tracking_id          : UA-746545-9
 
 # Reading Files
 include:
@@ -244,3 +213,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        overlay_color: "#8681bf"
