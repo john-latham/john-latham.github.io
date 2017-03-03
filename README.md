@@ -10,6 +10,12 @@ This typically takes a few seconds after a commit is pushed.
 
 Source: https://help.github.com/articles/user-organization-and-project-pages/
 
+# Information for writers
+
+Jekyll docs: https://jekyllrb.com/docs/posts/
+
+FontAwesome cheat cheet: http://fontawesome.io/cheatsheet/
+
 # Information for developers
 
 This is forked from https://github.com/mmistakes/minimal-mistakes
@@ -50,7 +56,3 @@ https://pages.github.com/versions/
 https://shopify.github.io/liquid/
 
 Unfortunately the Liquid documentation isn't version-specific.
-
-# Information for writers
-
-FontAwesome cheat cheet: http://fontawesome.io/cheatsheet/
