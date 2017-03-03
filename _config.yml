@@ -213,6 +213,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      header:
+        overlay_color: "#8681bf"
   - scope:
       path: ""
       type: pages
