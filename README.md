@@ -20,10 +20,9 @@ Install dependencies using Bundler: `$ bundle install`
 
 On Mac OS Sierra you may need to do something like this first:
 
-```$ xcode-select --install
-$ bundle config build.nokogiri --use-system-libraries \
-  --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
-```
+`$ xcode-select --install`
+
+`$ bundle config build.nokogiri --use-system-libraries --with-xml2-include=$(brew --prefix libxml2)/include/libxml2`
 
 Start server: `$ bundle exec jekyll serve`
 
