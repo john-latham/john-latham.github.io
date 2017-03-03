@@ -11,9 +11,9 @@ title                    : "Looking Local Blogs"
 title_separator          : "-"
 name                     :
 description              : "Looking Local | Solution architects to the public sector and beyond"
-url                      : "https://john-latham.github.io/"
+url                      : "https://blogs.lookinglocal.gov.uk"
 baseurl                  : #
-repository               : "john-latham/john-latham.github.io"
+repository               : "lookinglocal/lookinglocal.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 logo_url                 : "http://about.lookinglocal.gov.uk"
