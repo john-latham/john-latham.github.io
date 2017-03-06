@@ -96,7 +96,7 @@ Combining these 2 lists, we produced a list of components:
 - Pub/Sub (Biztalk/middleware)
 - Case Management/Repository of tasks
 
-![Components diagram](/assets/images/2017-01-17-leeds-workshop-notes-components.svg)
+![Components diagram](/assets/images/2017-01-17-leeds-workshop-notes/components.svg)
 
 # Wrap up and next steps
 
