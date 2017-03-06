@@ -7,15 +7,27 @@ author_profile: true
 
 {% include group-by-array collection=site.posts field="categories" %}
 
+{% for tocCategory in group_names %}
+
+<p id="{{ tocCategory | slugify }}">
+    {% assign posts = group_items[forloop.index0] %}
+    <a href="#{{ tocCategory }}">
+        {{ tocCategory }} ({{ posts.size }} posts)
+    </a>
+</p>
+{% endfor %}
+
 {% for category in group_names %}
 {% assign posts = group_items[forloop.index0] %}
 <h2 id="{{ category | slugify }}" class="archive__subtitle">
-    {{ category }}{% unless forloop.last %}{% endunless %}
+    <a name="{{ category }}">
+        {{ category }}{% unless forloop.last %}{% endunless %}
+    </a>
 </h2>
-{% assign post = posts | first ] %}
+{% for post in posts %}
 {% include archive-single.html %}
 {% if posts.size > 1 %}
-<a href="{{ category | slugify | prepend: path_type | prepend: site.category_archive.path | absolute_url }}" class="page__taxonomy-item" rel="tag">{{ posts.size | minus: 1 }} more posts in {{ category }}</a>
 {% endif %}
+{% endfor %}
 
 {% endfor %}
