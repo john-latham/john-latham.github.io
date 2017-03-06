@@ -16,11 +16,13 @@ Below are the top six things the Customer Service Team learnt and improved upon 
 
     The ScanStation app is accessible via a tablet and the tablet sits within a secure cradle attached to a table or stand. Designing the perfect cradle to fit the tablets again was a journey of trial and error. Modifications were made along the way to the bespoke metalwork design, firstly to stop mischievous customers from using the camera for ‘selfies’ (people just couldn't help themselves!) and then to ensure the tablets were locked down sufficiently.
 
-    ![Scanstation cradle](/assets/images/2016-11-15/img_20161012_134346.jpg){:width="239px" height="319px"}
+    {:style="text-align:center"}
+    ![Scanstation cradle](/assets/images/2016-11-15-scanstation-lessons-learned/img_20161012_134346.jpg){:width="239px" height="319px"}
     
 3. Digitally categorising document types
 
-    ![Categorising](/assets/images/2016-11-15/samsung-galaxy-tab-2d.png){:width="223px" height="271px"}
+    {:style="text-align:center"}
+    ![Categorising](/assets/images/2016-11-15-scanstation-lessons-learned/samsung-galaxy-tab-2d.png){:width="223px" height="271px"}
 
     The original approach to the ScanStation app was that it would simply take a picture/scan of the document and connect it with the relevant claim. This seemed straightforward. But this turned out to create more work for back office staff as documents needed categorising into ‘document types’. Indexing and categorising had previously been done at the front-end so this was an added stage. To resolve the issue, the app was adapted to create a new layer in the process, requiring customers to choose a document type each time they took a photo of a document (e.g. passport,).
  
@@ -40,6 +42,7 @@ Below are the top six things the Customer Service Team learnt and improved upon 
  
 ScanStation is now live to the public and there will be changes and improvements to come. Kirklees Council is really pleased with the result and confident it has built something that will make a difference, in saving time, resource and increasing customer satisfaction. And the potential is big:
 
-![Categorising](/assets/images/2016-11-15/scanstation-figures.png){:width="80%" height="80%"}
+{:style="text-align:center"}
+![Categorising](/assets/images/2016-11-15-scanstation-lessons-learned/scanstation-figures.png){:width="80%" height="80%"}
  
 In an effort to share best practice and commercialise what they have developed, ScanStation is available to other local authority looking to reduce customer service queues and make significant savings. It is [available via G-Cloud](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/366908435789036) or for more information including potential savings for your council then please email [scanstation@lookinglocal.gov.uk](mailto:scanstation@lookinglocal.gov.uk)
