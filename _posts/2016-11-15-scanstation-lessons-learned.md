@@ -43,6 +43,6 @@ Below are the top six things the Customer Service Team learnt and improved upon 
 ScanStation is now live to the public and there will be changes and improvements to come. Kirklees Council is really pleased with the result and confident it has built something that will make a difference, in saving time, resource and increasing customer satisfaction. And the potential is big:
 
 {:style="text-align:center"}
-![Categorising](/assets/images/2016-11-15-scanstation-lessons-learned/scanstation-figures.png){:width="80%" height="80%"}
+![Scanstation figures](/assets/images/2016-11-15-scanstation-lessons-learned/scanstation-figures.png){:width="80%" height="80%"}
  
 In an effort to share best practice and commercialise what they have developed, ScanStation is available to other local authority looking to reduce customer service queues and make significant savings. It is [available via G-Cloud](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/366908435789036) or for more information including potential savings for your council then please email [scanstation@lookinglocal.gov.uk](mailto:scanstation@lookinglocal.gov.uk)
