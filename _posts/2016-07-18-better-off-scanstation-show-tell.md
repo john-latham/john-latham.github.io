@@ -11,9 +11,9 @@ Quick headlines from the day include:
 - With 70% of claimants using BetterOff to self-serve means that qualified advisers are then able to spend more face-to-face time with the vulnerable case.
 - Last financial year through the implementation of BetterOff Kirklees Council made a cashable saving of £390,000 from it’s advice budget.
 - Since the launch date on the 15th October 2015 BetterOff Kirklees has reported:
--- over 6000 unique visitors
--- monetary gains of over £3.6million and
--- specialist advice requests dropped by 50%.
+  - over 6000 unique visitors
+  - monetary gains of over £3.6million and
+  - specialist advice requests dropped by 50%.
 - Delegates were some of the first to receive a preview of the new BetterOff HB/CTR forms.
 - Over the last year Kirklees CALC has doubled the number of customers they assist with half the funding.
 - This was the first Show and Tell where we were also joined by Diane Chapman, Customer Service Manager at Kirklees Council who introduced delegates to Kirklees’ new self-serve document scanning technology, ScanStation.
