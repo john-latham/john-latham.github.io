@@ -47,6 +47,6 @@ Based on 50% of HB claimants self-scanning, Kirklees estimate the net saving in 
 ScanStation is available to all other local authorities seeking to upgrade their document scanning process and diminish customer contact centre queues. Below is a brief look into the possible net savings that could be achieved depending on your council’s housing benefit caseload:
 
 {:style="text-align:center"}
-![Scanstation figures](/assets/images/2016-11-15-scanstation-lessons-learned/scanstation-figures.png){:width="80%" height="80%"}
+![Scanstation figures](/assets/images/2016-09-05-scanstation-diminishing-queues/scanstation-figures.png){:width="80%" height="80%"}
 
 If you would like to know more about the specific savings your council could make by implementing ScanStation or would like to arrange a visit to Kirklees Council’s customer service centre to see the product up close please email [scanstation@lookinglocal.gov.uk](scanstation@lookinglocal.gov.uk)
