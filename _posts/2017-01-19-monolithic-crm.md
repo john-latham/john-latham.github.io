@@ -5,6 +5,7 @@ categories: CRM
 header:
   overlay_image: /assets/images/feature-leeds.jpg
   caption: "Photo credit: Rory 89 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons"
+permalink: /monolithic-crm
 ---
 Expensive, awkward to integrate, confusing for users?
 
