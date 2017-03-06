@@ -1,7 +1,7 @@
 ---
 title:  "BetterOff Show and Tell day 9th March - London"
 author: Rhea Cunio
-categories: better-off
+categories: betteroff
 ---
 Wednesday was our third BetterOff Show and Tell day this time hosted in London. Seven local authorities and housing associations from across the country joined us at The Club House in West London to hear about the latest progress with BetterOff Kirklees.
 

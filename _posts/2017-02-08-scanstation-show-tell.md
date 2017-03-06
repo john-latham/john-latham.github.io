@@ -1,7 +1,7 @@
 ---
 title:  "ScanStation Show and Tell - 6th Feb - Q&A"
 author: Rhea Cunio
-categories: scan-station
+categories: ScanStation
 header: 
     overlay_color: "#8681bf"
 excerpt: Yesterday LookingLocal and Kirklees Council hosted their third ScanStation Show and Tell day, which saw 15 local authorities making a visit to Kirklees to see the ScanStation platform up close and hear about its implementation at the council.

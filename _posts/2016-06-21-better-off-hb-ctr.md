@@ -2,7 +2,7 @@
 title:  "The Next Chapter for BetterOff: HB/CTR"
 author: Rhea Cunio
 excerpt: "BetterOff will soon see Housing Benefit (HB) and Council Tax Reduction (CTR) forms and processes made available to claimants."
-categories: better-off
+categories: betteroff
 ---
 In a new development chapter, BetterOff will soon see Housing Benefit (HB) and Council Tax Reduction (CTR) forms and processes made available to claimants. The digitisation of HB & CTR is nothing new and there are a number of established providers on the market. Kirklees Council has been using one of these technologies for some time now.
  

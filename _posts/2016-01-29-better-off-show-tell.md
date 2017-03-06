@@ -1,7 +1,7 @@
 ---
 title:  "BetterOff Show and Tell Day - 28th Jan"
 author: Rhea Cunio
-categories: better-off
+categories: betteroff
 ---
 Yesterday was our second BetterOff Show and Tell day in Huddersfield. Nine local authorities and housing associations from across the country joined us at Huddersfield Town Hall to hear about the latest progress with BetterOff Kirklees.
 
