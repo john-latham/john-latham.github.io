@@ -1,7 +1,7 @@
 ---
 title:  "BetterOff and ScanStation Show and Tell Day - 13th July"
 author: Rhea Cunio
-categories: betteroff
+categories: better-off
 ---
 This Wednesday Kirklees Council hosted its fourth BetterOff Show and Tell day in Huddersfield. Six local authorities from across the country joined LookingLocal and Kirklees Council at the Huddersfield Leisure Centre to hear about the latest progress with BetterOff Kirklees.
 
