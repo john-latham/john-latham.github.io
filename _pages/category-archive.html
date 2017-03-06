@@ -15,7 +15,7 @@ author_profile: true
 {% assign post = posts | first ] %}
 {% include archive-single.html %}
 {% if posts.size > 1 %}
-<a href="{{ category | slugify | prepend: path_type | prepend: site.category_archive.path | absolute_url }}" class="page__taxonomy-item" rel="tag">{{ posts.size - 1 }} more posts in {{ category }}</a>
+<a href="{{ category | slugify | prepend: path_type | prepend: site.category_archive.path | absolute_url }}" class="page__taxonomy-item" rel="tag">{{ posts.size | minus: 1 }} more posts in {{ category }}</a>
 {% endif %}
 
 {% endfor %}
