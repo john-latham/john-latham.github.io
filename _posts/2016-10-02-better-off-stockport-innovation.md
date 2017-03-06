@@ -1,7 +1,7 @@
 ---
 title:  "Stockport BetterOff recognised for its Innovation to Public Service by iNetwork"
 author: Rhea Cunio
-categories: betteroff
+categories: BetterOff
 ---
 LookingLocal are very pleased to announce that BetterOff, our revolutionary platform developed with Kirklees Council, has been nominated for another award.
 
