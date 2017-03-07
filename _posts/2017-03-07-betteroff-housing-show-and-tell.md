@@ -2,7 +2,7 @@
 title:  "BetterOff Housing Show and Tell"
 author: Rhea Cunio
 categories: BetterOff
-excerpt: "Hyde Group and LoookingLocal hosted the first BetterOff Show and Tell day exclusivley for the housing sector"
+excerpt: "Hyde Group and LoookingLocal hosted the first BetterOff Show and Tell day exclusively for the housing sector"
 ---
 Last week Hyde Group and LookingLocal hosted the first BetterOff Show and Tell day exclusively for the housing sector. Held at Hyde’s head offices in London, 16 housing associations from across the UK attended the event. 
 
@@ -17,12 +17,12 @@ Several questions of particular interest came up during the workshop:
 
 ## What factors are considered for channel shift and/or impact/benefits to the business during the analysis?
 >Each organisations is so different so it ultimately changes from one to the other, but broadly we consider things like:
-- Length of appointments,
-- Waiting list times,
-- Number of service users, 
-- Advice services spend,
-- Travel time,
-- Time spent on filling out forms.
+- Length of appointments
+- Waiting list times
+- Number of service users 
+- Advice services spend
+- Travel time
+- Time spent on filling out forms
 
 ## Can housing associations restrict usage, for example, to that specific housing associations tenants only? 
 >This would be possible for any HA's looking to integrate BetterOff with their tenant portal for single sign-on. (Organisations were interested in this because of the accuracy of analytics and ensuring that they could get a clear picture of what their customers were doing.)
