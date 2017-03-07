@@ -77,6 +77,15 @@
   }
 }
 
+.archive__toc_ul {
+  padding-left:0;
+}
+.archive__toc_li {
+  list-style: none;
+}
+.archive__toc_li  a:hover {
+    text-decoration: underline;
+}
 
 /*
    List view

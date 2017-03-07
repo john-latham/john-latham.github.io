@@ -7,27 +7,37 @@ author_profile: true
 
 {% include group-by-array collection=site.posts field="categories" %}
 
-{% for tocCategory in group_names %}
-
-<p id="{{ tocCategory | slugify }}">
-    {% assign posts = group_items[forloop.index0] %}
-    <a href="#{{ tocCategory }}">
-        {{ tocCategory }} ({{ posts.size }} posts)
-    </a>
+<p>
+<ul class="archive__toc_ul">
+    {% for tocCategory in group_names %}
+    <li class="archive__toc_li" id="{{ tocCategory | slugify }}">
+        {% assign posts = group_items[forloop.index0] %}
+        <a href="#{{ tocCategory }}">
+            {{ tocCategory }} ({{ posts.size }} posts)
+        </a>
+    </li>
+    {% endfor %}
+</ul>
 </p>
-{% endfor %}
 
 {% for category in group_names %}
 {% assign posts = group_items[forloop.index0] %}
-<h2 id="{{ category | slugify }}" class="archive__subtitle">
-    <a name="{{ category }}">
-        {{ category }}{% unless forloop.last %}{% endunless %}
-    </a>
-</h2>
-{% for post in posts %}
-{% include archive-single.html %}
-{% if posts.size > 1 %}
+{% assign mod = forloop.index0 | modulo: 2 %}
+{% if mod == 0  %}
+<div style="margin: 0 0 2em 0; padding:0 0 0 0.2em; {% if page.header.overlay_color %}background: {{ page.header.overlay_color | default: 'transparent' }};{% endif %}">
+{% else %}
+<div style="margin: 0 0 2em 0; padding:0 0.2em 0 0; {% if page.header.overlay_color %}background: {{ page.header.overlay_color | default: 'transparent' }};{% endif %}">
 {% endif %}
-{% endfor %}
+    <div style="padding: 0.1em 1em 1em 1em; background: rgba(255,255,255,0.95)">
+        <h2 id="{{ category | slugify }}" class="archive__subtitle">
+            <a name="{{ category }}">
+                {{ category }}{% unless forloop.last %}{% endunless %}
+            </a>
+        </h2>
+        {% for post in posts %}
+            {% include archive-single.html %}
+        {% endfor %}
+    </div>
+</div>
 
 {% endfor %}
