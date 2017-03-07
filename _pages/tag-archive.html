@@ -10,10 +10,10 @@ author_profile: true
 <p>
     <ul class="archive__toc_ul">
         {% for tocCategory in group_names %}
-            <li class="archive__toc_li" id="{{ tocCategory | slugify }}">
+            <li class="archive__toc_li">
                 {% assign posts = group_items[forloop.index0] %}
-                <a href="#{{ tocCategory }}">
-                    {{ tocCategory }} ({{ posts.size }} posts)
+                <a href="#{{ tocCategory | slugify }}">
+                    {{ tocCategory }} ({{ posts.size }} {% if posts.size == 1  %}post{% else %}posts{% endif %})
                 </a>
             </li>
         {% endfor %}
