@@ -50,7 +50,7 @@ On Mac OS Sierra you may need to do something like this first:
 
 `$ bundle config build.nokogiri --use-system-libraries --with-xml2-include=$(brew --prefix libxml2)/include/libxml2`
 
-Start server: `$ bundle exec jekyll serve`
+Start server: `$ bundle exec jekyll serve --safe`
 
 Or using overrides for local config `$ bundle exec jekyll serve -w --verbose -c _config.yml,_config.dev.yml --drafts`
 
