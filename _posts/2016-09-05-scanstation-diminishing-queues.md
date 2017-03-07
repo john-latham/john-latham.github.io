@@ -2,6 +2,7 @@
 title:  "ScanStation: Diminishing Queues at Customer Contact Centres: Self-serve Scanning"
 author: Rhea Cunio
 excerpt: "LookingLocal’s new document self-scanning solution - ScanStation - is installed and very soon to go live at Kirklees Council’s customer contact centres in Huddersfield and Dewsbury"
+categories: ScanStation 
 ---
 Introducing our new self-serve document scanning solution - ScanStation
 

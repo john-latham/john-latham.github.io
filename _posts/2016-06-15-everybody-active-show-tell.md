@@ -1,6 +1,7 @@
 ---
 title:  "Everybody Active Show and Tell - 14th June 2016"
 author: Rhea Cunio
+categories: Health
 ---
 Yesterday 15 representatives from local authorities and health organisations joined Kirklees Council for the Everybody Active ‘Show and Tell’ day in Huddersfield.
 

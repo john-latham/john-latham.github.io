@@ -2,6 +2,7 @@
 title:  "Do something good for JanUary"
 author: Rhea Cunio
 excerpt: "This month there is a campaign called, helpfully, JanUary - led by the National Obesity Forum which is aimed at encouraging people to “do something good for JanUary”"
+categories: Health
 ---
 This time of the year is, at least in the UK, a time for new beginnings for many people.  Perhaps after the festivities of Christmas and New Year people feel more motivated to live healthier lives.  This month there is a campaign called, helpfully, JanUary - led by the National Obesity Forum which is aimed at encouraging people to “do something good for JanUary”.  The obvious focus here is to persuade people to make a choice for a healthier lifestyle to reduce obesity in the UK, as well as giving them the information they need to help them live healthier.
  

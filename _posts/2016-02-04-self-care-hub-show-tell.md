@@ -1,6 +1,7 @@
 ---
 title:  "SelfCareHub Show and Tell Day - 2nd Feb"
 author: Rhea Cunio
+categories: Health
 ---
 Yesterday was our first SelfCareHub Show and Tell day in Huddersfield. 14 health professional from across the country joined us at the town hall to hear about the latest progress with the Kirklees version of SelfCareHub, My Health Tools.
 

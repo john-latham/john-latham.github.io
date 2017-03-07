@@ -1,7 +1,7 @@
 ---
 title:  "Homes for Haringey’s new mobile app: Improving tenant satisfaction with new communication platform"
 author: Rhea Cunio
-categories: MyLandlord
+categories: Housing
 tags: homes-for-haringey apps housing-associations tenants communication repairs housing
 ---
 Homes for Haringey has launched a new mobile app that will improve the repairs process, as well as the overall digital offer it provides its tenants.

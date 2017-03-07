@@ -1,6 +1,7 @@
 ---
 title:  "West Wakefield Health and Wellbeing is helping patients help themselves with comprehensive online advice platform"
 author: Rhea Cunio
+categories: Health 
 ---
 West Wakefield Health & Wellbeing Ltd have recently launched a new version of their health advice website in order to ensure patients are triaged most appropriately to the care they need.
 
