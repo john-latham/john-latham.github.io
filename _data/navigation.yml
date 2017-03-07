@@ -3,6 +3,6 @@ main:
   - title: "Looking Local blogs"
     url: /
   - title: "Posts by category"
-    url: /categories
+    url: /categories/
   - title: "Posts by tag"
-    url: /tags
+    url: /tags/
