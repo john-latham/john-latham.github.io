@@ -20,6 +20,26 @@ FontAwesome cheat cheet: http://fontawesome.io/cheatsheet/
 
 This is forked from https://github.com/mmistakes/minimal-mistakes
 
+# Hosting configuration
+
+Github repo settings have "blogs.lookinglocal.gov.uk" as the Custom Domain.
+
+To make SSL work (important for trust) there is a Cloudfront distribution with *.lookinglocal.gov.uk SSL cert attached, whose important settings are:
+
+- Alternate Domain Names: blogs.lookinglocal.gov.uk
+- Origin Domain Name: lookinglocal.github.io
+- Origin Protocol Policy: HTTP only
+- Viewer Protocol Policy: Redirect HTTP to HTTPS
+- Allowed HTTP Methods: GET, HEAD, OPTIONS
+- Whitelist the `Host` header (this is important in conjunction with Github repo custom domain)
+- Object Caching: Customize (this is important as Github Pages caches for 10 mins)
+    - Minimum TTL: 0
+    - Maximum TTL: 0
+    - Default TTL: 0
+- Forward Cookies: All (don't know if this is important)
+- Query String Forwarding and Caching: None
+- Compress Objects Automatically: Yes
+
 # To run locally with Jekyll
 
 Install dependencies using Bundler: `$ bundle install`
