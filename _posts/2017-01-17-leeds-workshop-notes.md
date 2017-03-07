@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/feature-leeds.jpg
   caption: "Photo credit: Rory 89 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons"
 excerpt: Leeds City Council are constantly looking to improve their offering to customers and drive efficiencies and savings.
-permalink: /leeds-workshop-notes
+redirect_from: /leeds-workshop-notes
 ---
 
 * TOC
