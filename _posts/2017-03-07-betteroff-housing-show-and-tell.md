@@ -2,7 +2,7 @@
 title:  "BetterOff Housing Show and Tell"
 author: Rhea Cunio
 categories: BetterOff
-excerpt: "Hyde Group and LoookingLocal hosted the first BetterOff Show and Tell day exclusively for the housing sector"
+excerpt: "Hyde Group and LookingLocal hosted the first BetterOff Show and Tell day exclusively for the housing sector"
 ---
 Last week Hyde Group and LookingLocal hosted the first BetterOff Show and Tell day exclusively for the housing sector. Held at Hyde’s head offices in London, 16 housing associations from across the UK attended the event. 
 
