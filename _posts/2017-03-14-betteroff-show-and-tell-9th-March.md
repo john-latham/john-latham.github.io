@@ -1,8 +1,11 @@
 ---
-title:  "BetterOff Show and Tell Day - 9th March"
+title: BetterOff Show and Tell Day - 9th March
+date: 2017-03-14 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
 ---
+
 Last week Kirklees Council and LookingLocal hosted the first local authority BetterOff Show and Tell of the year. Eight organisations from across the UK travelled to Huddersfield to hear about our welfare and benefits platform BetterOff. 
 
 Steve Langrick, Head of Online Channel Strategy and Development at Kirklees Council led the talks for the day. 

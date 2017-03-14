@@ -1,9 +1,13 @@
 ---
-title:  "BetterOff Housing Show and Tell"
+title: BetterOff Housing Show and Tell
+date: 2017-03-07 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
-excerpt: "Hyde Group and LookingLocal hosted the first BetterOff Show and Tell day exclusively for the housing sector"
+excerpt: Hyde Group and LookingLocal hosted the first BetterOff Show and Tell day
+  exclusively for the housing sector
 ---
+
 Last week Hyde Group and LookingLocal hosted the first BetterOff Show and Tell day exclusively for the housing sector. Held at Hyde’s head offices in London, 16 housing associations from across the UK attended the event. 
 
 Talks on the day were led by Jahanara Rajkoomar, Head of Community Investment at Hyde Group and Tom Gardiner, Project Manager for the Hyde BetterOff implementation.  

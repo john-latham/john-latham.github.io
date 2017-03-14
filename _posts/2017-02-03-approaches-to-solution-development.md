@@ -1,11 +1,14 @@
 ---
-title:  "Approaches to solution development"
+title: Approaches to solution development
+date: 2017-02-03 00:00:00 Z
+categories:
+- CRM
 author: John Latham
-categories: CRM
 header:
-  overlay_image: /assets/images/feature-leeds.jpg
-  caption: "Photo credit: Rory 89 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons"
-redirect_from: /approaches-to-solution-development
+  overlay_image: "/assets/images/feature-leeds.jpg"
+  caption: 'Photo credit: Rory 89 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)],
+    via Wikimedia Commons'
+redirect_from: "/approaches-to-solution-development"
 ---
 
 How might councils approach development of technical solutions with a view to collaboration and re-use?

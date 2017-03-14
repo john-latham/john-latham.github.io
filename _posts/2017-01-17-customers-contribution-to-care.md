@@ -1,12 +1,14 @@
 ---
-title:  "Customers contribution to care: Direct Payments vs Invoicing"
+title: 'Customers contribution to care: Direct Payments vs Invoicing'
+date: 2017-01-17 00:00:00 Z
+categories:
+- random
 author: Lianne Viney
-date: 2017-01-17
-categories: random
 header:
-  overlay_image: /assets/images/feature-huddersfield.jpg
-  caption: "Photo credit: TODO"
+  overlay_image: "/assets/images/feature-huddersfield.jpg"
+  caption: 'Photo credit: TODO'
 ---
+
 I've spent the last two years entrenched in process redesign of care assessments. As part of the analysis I researched the best method in which customer's chose to pay for their care contributions to the council.
 
 Following a financial care assessment, customers are notified if they need to pay for some or all of their care. For customers who have care plans provided to them by the council, the primary mechanism for retrieving the customer contributions, is to invoice them some weeks after they have received the care. For some local authorities this process is driven by the care providers invoicing the council for the care they have supplied. 

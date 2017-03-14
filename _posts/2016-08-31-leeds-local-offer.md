@@ -1,8 +1,12 @@
 ---
-title:  "Leeds City Council transform Local Offer: Answering the needs of families and carers"
+title: 'Leeds City Council transform Local Offer: Answering the needs of families
+  and carers'
+date: 2016-08-31 00:00:00 Z
+categories:
+- LocalOffer
 author: Rhea Cunio
-categories: LocalOffer
 ---
+
 Leeds City Council were one of the first local authorities to transform their Local Offer with the online platform MyLocalOffer developed by Kirklees Council-owned development company, LookingLocal.
 
 {:style="text-align:center"}

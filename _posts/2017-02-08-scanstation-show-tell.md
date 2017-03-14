@@ -1,11 +1,16 @@
 ---
-title:  "ScanStation Show and Tell - 6th Feb - Q&A"
+title: ScanStation Show and Tell - 6th Feb - Q&A
+date: 2017-02-08 00:00:00 Z
+categories:
+- ScanStation
 author: Rhea Cunio
-categories: ScanStation
-header: 
-    overlay_color: "#8681bf"
-excerpt: Yesterday LookingLocal and Kirklees Council hosted their third ScanStation Show and Tell day, which saw 15 local authorities making a visit to Kirklees to see the ScanStation platform up close and hear about its implementation at the council.
+header:
+  overlay_color: "#8681bf"
+excerpt: Yesterday LookingLocal and Kirklees Council hosted their third ScanStation
+  Show and Tell day, which saw 15 local authorities making a visit to Kirklees to
+  see the ScanStation platform up close and hear about its implementation at the council.
 ---
+
 Yesterday LookingLocal and Kirklees Council hosted their third ScanStation Show and Tell day, which saw 15 local authorities making a visit to Kirklees to see the ScanStation platform up close and hear about its implementation at the council.
  
 ScanStation is Kirklees Council’s new self-serve document scanning platform which is helping to reduce queues and create a more efficient customer contact centre. The platform consists of a touch screen, tablet-enabled app enabling customers to self-scan documents to support a range of government services, e.g. housing benefit, council tax reduction, disabled travel passes and blue badges. As a combined software and furniture solution, ScanStation ensures quality images every time, can integrate with any back-end system and is a simple, accessible customer-focused solution.

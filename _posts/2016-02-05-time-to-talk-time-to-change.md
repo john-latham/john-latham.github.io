@@ -1,8 +1,11 @@
 ---
-title:  "Time to Talk: Time to Change"
+title: 'Time to Talk: Time to Change'
+date: 2016-02-05 00:00:00 Z
+categories:
+- Health
 author: Sheena Guthrie
-categories: Health
 ---
+
 It is really encouraging to see the Time to Talk campaign which looks to end the stigma associated with mental ill health.
 
 {:style="text-align:center"}

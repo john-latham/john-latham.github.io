@@ -1,8 +1,11 @@
 ---
-title:  "BetterOff Recognised as Transformative Solution for Welfare Reform"
+title: BetterOff Recognised as Transformative Solution for Welfare Reform
+date: 2016-09-29 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
 ---
+
 Our ground-breaking welfare and employment solution BetterOff, was today recognised at the 2016 Digital Strategy & Impact Awards for the transformational impact it has had at Kirklees Council.
 
 BetterOff has succeeded in moving one of the most paper-based and process heavy services into the digital realm, with a raft of customer and organisational benefits.

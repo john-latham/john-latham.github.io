@@ -1,8 +1,12 @@
 ---
-title:  "Stockport Council brings advice online with digital benefit and employment platform BetterOff"
+title: Stockport Council brings advice online with digital benefit and employment
+  platform BetterOff
+date: 2016-08-15 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
 ---
+
 Stockport Council brings advice online with digital benefit and employment platform BetterOff
 
 {:style="text-align:center"}

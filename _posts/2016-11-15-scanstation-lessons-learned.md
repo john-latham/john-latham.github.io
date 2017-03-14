@@ -1,8 +1,12 @@
 ---
-title:  "ScanStation: Lessons learnt from taking the ‘contact-heavy’ document scanning process online"
+title: 'ScanStation: Lessons learnt from taking the ‘contact-heavy’ document scanning
+  process online'
+date: 2016-11-15 00:00:00 Z
+categories:
+- ScanStation
 author: Rhea Cunio
-categories: ScanStation
 ---
+
 ScanStation is the new end-to-end self-serve document scanning platform developed by Kirklees Council and its technology partners LookingLocal.
 
 Developing a new, transformative digital platform in-house is no easy feat. However, Kirklees Council has gone through the many stages and trial and error in terms of the design, development and rollout required to make ScanStation a robust, reliable and user-friendly system.

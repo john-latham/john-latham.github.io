@@ -1,9 +1,13 @@
 ---
-title:  "The Next Chapter for BetterOff: HB/CTR"
+title: 'The Next Chapter for BetterOff: HB/CTR'
+date: 2016-06-21 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-excerpt: "BetterOff will soon see Housing Benefit (HB) and Council Tax Reduction (CTR) forms and processes made available to claimants."
-categories: BetterOff
+excerpt: BetterOff will soon see Housing Benefit (HB) and Council Tax Reduction (CTR)
+  forms and processes made available to claimants.
 ---
+
 In a new development chapter, BetterOff will soon see Housing Benefit (HB) and Council Tax Reduction (CTR) forms and processes made available to claimants. The digitisation of HB & CTR is nothing new and there are a number of established providers on the market. Kirklees Council has been using one of these technologies for some time now.
  
 However, BetterOff has transformed the way in which the council provides support to numerous welfare processes online and we needed to bring the same approach to HB/CTR to unlock the savings required as well as significantly improve the customer experience. It’s a win-win for all concerned. We’ve reimagined how the customer interfaces with us and in doing so are able to deliver a platform that is cheaper to run, increases the citizens ability to truly self-serve and reduces the administration overhead and officer time that it currently demands. We’ve worked with our partners at Govtech to ensure that the solution integrates with Kirklees Council’s own back office systems (Northgate) but is also fully  integrated with Civica and Academy.

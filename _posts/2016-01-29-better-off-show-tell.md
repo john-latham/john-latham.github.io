@@ -1,8 +1,11 @@
 ---
-title:  "BetterOff Show and Tell Day - 28th Jan"
+title: BetterOff Show and Tell Day - 28th Jan
+date: 2016-01-29 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
 ---
+
 Yesterday was our second BetterOff Show and Tell day in Huddersfield. Nine local authorities and housing associations from across the country joined us at Huddersfield Town Hall to hear about the latest progress with BetterOff Kirklees.
 
 BetterOff is a new online platform that tackles the benefit and welfare process end-to-end; from assessing entitlement to benefits, guiding claimants through benefits applications and helping claimants into work.

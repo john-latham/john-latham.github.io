@@ -1,12 +1,16 @@
 ---
-title:  "Leeds CRM workshop - 6th Jan - meeting notes"
+title: Leeds CRM workshop - 6th Jan - meeting notes
+date: 2017-01-17 00:00:00 Z
+categories:
+- CRM
 author: Lianne Viney
-categories: CRM
 header:
-  overlay_image: /assets/images/feature-leeds.jpg
-  caption: "Photo credit: Rory 89 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons"
-excerpt: Leeds City Council are constantly looking to improve their offering to customers and drive efficiencies and savings.
-redirect_from: /leeds-workshop-notes
+  overlay_image: "/assets/images/feature-leeds.jpg"
+  caption: 'Photo credit: Rory 89 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)],
+    via Wikimedia Commons'
+excerpt: Leeds City Council are constantly looking to improve their offering to customers
+  and drive efficiencies and savings.
+redirect_from: "/leeds-workshop-notes"
 ---
 
 * TOC

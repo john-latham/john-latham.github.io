@@ -1,8 +1,11 @@
 ---
-title:  "BetterOff Show and Tell day 9th March - London"
+title: BetterOff Show and Tell day 9th March - London
+date: 2016-03-11 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
 ---
+
 Wednesday was our third BetterOff Show and Tell day this time hosted in London. Seven local authorities and housing associations from across the country joined us at The Club House in West London to hear about the latest progress with BetterOff Kirklees.
 
 BetterOff is a new online platform that tackles the benefit and welfare process end-to-end; from assessing entitlement to benefits, guiding claimants through benefits applications and helping claimants into work. 

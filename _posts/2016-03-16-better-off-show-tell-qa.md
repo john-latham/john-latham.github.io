@@ -1,8 +1,11 @@
 ---
-title:  "Q&A from the latest BetterOff Show and Tell day"
+title: Q&A from the latest BetterOff Show and Tell day
+date: 2016-03-16 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
 ---
+
 Last week LookingLocal and Kirklees Council hosted their third BetterOff ‘Show and Tell’ day, which saw a range of local authorities and housing associations join Kirklees and Stockport Councils in London to discuss the new, ground-breaking welfare and employment platform.
 
 {:style="text-align:center"}

@@ -1,8 +1,13 @@
 ---
-title:  "Hyde is first housing association to use online benefits/employment platform, BetterOff"
+title: Hyde is first housing association to use online benefits/employment platform,
+  BetterOff
+date: 2016-10-14 00:00:00 Z
+categories:
+- BetterOff
+- Housing
 author: Rhea Cunio
-categories: BetterOff Housing
 ---
+
 The Hyde Group will be the first housing association to use BetterOff, the online platform which brings benefits and employment together in one, easy, digital space.
 
 BetterOff, developed by Kirklees Council’s digital team, LookingLocal, combines benefits eligibility, applications, appeals and comprehensive employment tools.

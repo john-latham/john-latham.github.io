@@ -1,8 +1,12 @@
 ---
-title:  "Private:Public can still work - integrated lifestyle services"
-excerpt: "I spend way too much time on my phone, my laptop, tablet. It consumes so much of my day that I've fallen into the trap of thinking that everyone does the same and I think I may have allowed it to skew my thinking."
+title: Private:Public can still work - integrated lifestyle services
+date: 2017-03-01 00:00:00 Z
+categories:
+- random
+excerpt: I spend way too much time on my phone, my laptop, tablet. It consumes so
+  much of my day that I've fallen into the trap of thinking that everyone does the
+  same and I think I may have allowed it to skew my thinking.
 author: Guy Giles
-categories: random
 ---
 
 I've spent the last few weeks talking to various Managing Directors and Bid Managers who respond to tenders around healthy living, integrated lifestyles, long-term condition management, public health. I have also been invited to numerous 'market sounding' events run by local authorities - often in partnership with their CCG colleagues. For too long now I have become frustrated that these organisations don't 'think digital' in the way they commission these services, but I think I have woken up. This was my shortcoming - not theirs.

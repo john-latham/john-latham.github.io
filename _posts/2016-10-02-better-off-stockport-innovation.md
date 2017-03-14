@@ -1,8 +1,11 @@
 ---
-title:  "Stockport BetterOff recognised for its Innovation to Public Service by iNetwork"
+title: Stockport BetterOff recognised for its Innovation to Public Service by iNetwork
+date: 2016-10-02 00:00:00 Z
+categories:
+- BetterOff
 author: Rhea Cunio
-categories: BetterOff
 ---
+
 LookingLocal are very pleased to announce that BetterOff, our revolutionary platform developed with Kirklees Council, has been nominated for another award.
 
 Stockport Metropolitan Borough Council went live with the platform in July and has now been nominated for an iNetwork award in the category of Innovative Access to Public Services.

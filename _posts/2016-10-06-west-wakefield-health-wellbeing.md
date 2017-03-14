@@ -1,8 +1,12 @@
 ---
-title:  "West Wakefield Health and Wellbeing is helping patients help themselves with comprehensive online advice platform"
+title: West Wakefield Health and Wellbeing is helping patients help themselves with
+  comprehensive online advice platform
+date: 2016-10-06 00:00:00 Z
+categories:
+- Health
 author: Rhea Cunio
-categories: Health 
 ---
+
 West Wakefield Health & Wellbeing Ltd have recently launched a new version of their health advice website in order to ensure patients are triaged most appropriately to the care they need.
 
 West Wakefield’s health and wellbeing website was developed as part of the Prime Minister’s Challenge Fund back in May 2015 by Kirklees Council-owned development company, LookingLocal. Since then West Wakefield Health & Wellbeing has developed into a GP Federation, meaning the website now has a wider range of stakeholders with associated demands and needs for appropriate signposting and information. Due to this, the site needed updating throughout to reflect these new requirements and meet the organisation’s new challenges and objectives.

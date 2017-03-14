@@ -1,8 +1,11 @@
 ---
-title:  "SelfCareHub Show and Tell Day - 2nd Feb"
+title: SelfCareHub Show and Tell Day - 2nd Feb
+date: 2016-02-04 00:00:00 Z
+categories:
+- Health
 author: Rhea Cunio
-categories: Health
 ---
+
 Yesterday was our first SelfCareHub Show and Tell day in Huddersfield. 14 health professional from across the country joined us at the town hall to hear about the latest progress with the Kirklees version of SelfCareHub, My Health Tools.
 
 Kirklees Public Health worked in partnership with LookingLocal to create My Health Tools, a CBT-based online platform for people living with a long-term health condition (LTC), which offers guidance and support in helping people to self-care.
