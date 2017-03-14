@@ -8,12 +8,15 @@ Last week Kirklees Council and LookingLocal hosted the first local authority Bet
 Steve Langrick, Head of Online Channel Strategy and Development at Kirklees Council led the talks for the day. 
 
 **70% of claimants able to self-serve**
+
 As part of his presentation Steve talked about the analysis work that was undertaken before developing BetterOff which helped us to understand the current expectations and capabilities of claimants. The analysis suggested that approximately 70% of claimants would be able to self-serve given the right digital tools to do so; although many claimants may not own smart devices, the majority are capable of using online technology. Delegates at the workshop agreed that this analysis also mirrored the experience they’d had with their claimants and that the issue of digital inclusion is more of an affordability one rather than accessibility or knowledge. 
 
 **Improves work search activity evidence**
+
 One of the features of BetterOff that really stood out for delegates at this workshop was the ability for claimants to record work search activity. BetterOff has a built-in job search journal that uses pre-constructed sentences to help claimants on jobseekers allowance to record their job search activity in line with job centre requirements. One of the attending local authorities noted how good an opportunity the platform could be for their local job centres, as it could significantly reduce the amount of unnecessary sanctions. 
 
 **Positive feedback from the frontline**
+
 For this Show and Tell we were joined by Linnet Thornton, Contact Centre Manager for Kirklees Citizen Advice and Law Centre (KCALC) who gave a talk to delegates about how the BetterOff platform was helping to improve their advice offering. During her talk Linnet referenced how easy it had been to train staff on the frontline with the training guidance provided by Kirklees Council and LookingLocal. 
 
 Linnet said that the biggest difference for their claimants is the instant benefits calculation. BetterOff has a built-in benefits calculator that allow claimants to see all of the benefits they are entitled to - previous to BetterOff, claimants visiting KCALC would have had to wait up to two weeks for an appointment to assess their benefit entitlement.
