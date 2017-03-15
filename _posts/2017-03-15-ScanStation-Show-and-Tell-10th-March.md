@@ -19,7 +19,7 @@ ScanStation is the most recent technology to be added to the customer contact ce
 
 # Journey behind developing ScanStation 
 
-Diane talked delegates through the development of the ScanStation. (For more on this please read the [ScanStation: 5 lessons learnt blog](https://blogs.lookinglocal.gov.uk/2016-11-15/scanstation-lessons-learned/)). 
+Diane talked delegates through the development of the ScanStation. (For more on this please read the [ScanStation: 6 lessons learnt blog](https://blogs.lookinglocal.gov.uk/2016-11-15/scanstation-lessons-learned/)). 
 
 Diane explained that Kirklees have focused on housing benefit claims for ScanStation initially and that this has already saved the council approximately £144k in adviser time. Advisers are able to work more efficiently spending their time with the vulnerable and complex cases that need their help. 
 
