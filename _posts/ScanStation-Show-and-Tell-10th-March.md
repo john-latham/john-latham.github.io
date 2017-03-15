@@ -1,9 +1,5 @@
 ---
-title:ScanStation Show And Tell - 10th March
-date: 2017-03-15 11:43:42.532000000 Z
-categories:
-- ScanStation
-author: Rhea Cunio
+title: 2017 03 15 Scan Station Show And Tell 10th March
 ---
 
 Last week Kirklees Council hosted its latest ScanStation Show and Tell day at Huddersfield Town Hall. Eight local authorities from across the UK visited Kirklees Council to hear about our new self-serve customer scanning technology. 
