@@ -1,5 +1,5 @@
 ---
-title: Scan Station Show And Tell - 10th March
+title: ScanStation Show And Tell - 10th March
 date: 2017-03-15 00:00:00 Z
 author: Rhea Cunio
 catergories: ScanStation
