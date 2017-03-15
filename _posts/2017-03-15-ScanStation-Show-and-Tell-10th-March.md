@@ -1,6 +1,8 @@
 ---
 title: 2017 03 15 Scan Station Show And Tell 10th March
 date: 2017-03-15 11:43:42.532000000 Z
+author: Rhea Cunio
+categories: ScanStation
 ---
 
 Last week Kirklees Council hosted its latest ScanStation Show and Tell day at Huddersfield Town Hall. Eight local authorities from across the UK visited Kirklees Council to hear about our new self-serve customer scanning technology. 
@@ -17,7 +19,7 @@ ScanStation is the most recent technology to be added to the customer contact ce
 
 # Journey behind developing ScanStation 
 
-Diane talked delegates through the development of the ScanStation. (For more on this please read the ScanStation: 5 lessons learnt blog). 
+Diane talked delegates through the development of the ScanStation. (For more on this please read the [ScanStation: 5 lessons learnt blog](https://blogs.lookinglocal.gov.uk/2016-11-15/scanstation-lessons-learned/)). 
 
 Diane explained that Kirklees have focused on housing benefit claims for ScanStation initially and that this has already saved the council approximately £144k in adviser time. Advisers are able to work more efficiently spending their time with the vulnerable and complex cases that need their help. 
 
@@ -25,4 +27,4 @@ As Scanstation has proved successful in generating savings for housing benefit c
 
 # Future events
 
-The ScanStation Show and Tell days are very popular events which include a tour of the new Kirklees Customer Contact Centre to see ScanStation in operation. We will be running more of these events throughout the year. For more information in the meantime please email scanstation@lookinglocal.gov.uk. 
+The ScanStation Show and Tell days are very popular events which include a tour of the new Kirklees Customer Contact Centre to see ScanStation in operation. We will be running more of these events throughout the year. For more information in the meantime please email [scanstation@lookinglocal.gov.uk](mailto:betteroff@lookinglocal.gov.uk). 
