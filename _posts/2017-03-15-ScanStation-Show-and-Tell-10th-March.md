@@ -1,5 +1,5 @@
 ---
-title: 2017 03 15 Scan Station Show And Tell 10th March
+title:ScanStation Show And Tell - 10th March
 date: 2017-03-15 11:43:42.532000000 Z
 categories:
 - ScanStation
