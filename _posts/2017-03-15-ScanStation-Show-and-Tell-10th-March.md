@@ -1,9 +1,8 @@
 ---
-title: ScanStation Show and Tell - 10th March
-date: 2017-03-15
-categories:BetterOff
-author: Rhea Cunio
+title: 2017 03 15 Scan Station Show And Tell 10th March
+date: 2017-03-15 11:43:42.532000000 Z
 ---
+
 Last week Kirklees Council hosted its latest ScanStation Show and Tell day at Huddersfield Town Hall. Eight local authorities from across the UK visited Kirklees Council to hear about our new self-serve customer scanning technology. 
 
 The talks for the day were led by Steve Langrick, Head of Online, Channel Strategy and Development at Kirklees Council and Diane Chapman Customer Contact Centre Manager at Kirklees. 
