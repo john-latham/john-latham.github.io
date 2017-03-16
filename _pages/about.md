@@ -1,9 +1,10 @@
 ---
 title: About these blogs
+permalink: "/about"
 author: John Latham
-permalink: /about
 layout: single
 ---
+
 These blogs are made from [Github Pages](https://pages.github.com/).
 
 You can find the code and content in the following Github repository:
