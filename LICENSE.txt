@@ -1,3 +1,11 @@
+The following license, inherited from the forked Minimal Mistakes (https://github.com/mmistakes/minimal-mistakes),
+applies to all source code and configuration in this site with the exception of the _pages, _posts, and assets
+subfolders, and the generated _site subfolder.
+
+All content (_pages, _posts, assets, _site) is Copyright (c) 2017 Looking Local.
+
+------------
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Michael Rose
