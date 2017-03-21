@@ -1,11 +1,13 @@
 ---
 title: The information, advice and guidance conundrum
-date: 2017-03-21
+date: 2017-03-21 00:00:00 Z
 categories:
 - random
 author: Guy Giles
-excerpt: Information, Advice & Guidance or IAG. Catchy title it is not. But it is currently one of the big challenges for local public service delivery.
+excerpt: Information, Advice & Guidance or IAG. Catchy title it is not. But it is
+  currently one of the big challenges for local public service delivery.
 ---
+
 Information, Advice & Guidance or IAG. Catchy title it is not. But it is currently one of the big challenges for local public service delivery. Council websites up and down the land are trying to help people understand a myriad of services. Get it right and people self-serve. Get it wrong and they look at a website and get very frustrated. They curse where their taxes are going and dig deep for a phone number to get answers from someone at the council. The double whammy of an expensive website combined with increased demand on the frontline - not good.
 
 We are involved in a [collaborative project](http://www.cc2i.org.uk/collaborate/current-projects/crowdsourced-content-for-customer-services/) working with a couple of Scottish LA’s on this very challenge. 
