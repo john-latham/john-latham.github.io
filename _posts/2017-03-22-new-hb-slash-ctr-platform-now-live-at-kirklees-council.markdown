@@ -3,7 +3,6 @@ title: New HB/CTR platform now live at Kirklees Council
 date: 2017-03-22 12:05:00 Z
 categories:
 - BetterOff
-author_profile: Rhea Cunio
 read_time: 2 mins
 author: Rhea Cunio
 ---
