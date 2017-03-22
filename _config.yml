@@ -16,7 +16,7 @@ defaults:
     layout: single
     author_profile: true
     read_time: true
-    comments: 
+    comments: true
     share: true
     related: false
     header:
@@ -41,7 +41,7 @@ words_per_minute: 200
 comments:
   provider: 
   disqus:
-    shortname: 
+    shortname: looking-local-blogs
   discourse:
     server: 
   facebook:
