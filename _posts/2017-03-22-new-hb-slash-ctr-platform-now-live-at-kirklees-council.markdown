@@ -10,11 +10,11 @@ read_time: 2 mins
 It’s an exciting month for us at LookingLocal and Kirklees Council as we announce the go-live of our new Housing Benefit and Council Tax Reduction platform.
 The platform has taken us around 15-months to develop - from initial design to testing and finally making it live to the public.
 
-\
+
 The digitisation of HB/CTR is nothing new and there are a number of established providers on the market. Kirklees Council has been using one of these technologies for some time now. However, analysis that we conducted pre-design phase, showed that Kirklees’ previous HB/CTR form was causing multiple frustrations. For example, an ambiguous end-of-form experience was leading to clients abandoning applications before submission. The reality is that poor design can still lead to customers needing adviser resource - defeating the whole point of “self-serve”.
 It’s all very well declaring 100% digital uptake for a given service but not if it leads to an increase in avoidable contact along the way. We needed to address this and the market, in our view, wasn’t delivering what we needed.
 
-\
+
 This is just one of the reasons that led Kirklees to want to design and develop its own improved technology.
 
 
