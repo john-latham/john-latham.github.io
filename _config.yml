@@ -39,9 +39,9 @@ logo: "/assets/images/logo.png"
 logo_url: http://about.lookinglocal.gov.uk
 words_per_minute: 200
 comments:
-  provider: "disqus"
+  provider: disqus
   disqus:
-    shortname: "looking-local-blogs"
+    shortname: looking-local-blogs
   discourse:
     server: 
   facebook:
