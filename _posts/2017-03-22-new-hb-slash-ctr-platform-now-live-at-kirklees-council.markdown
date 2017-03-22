@@ -5,6 +5,7 @@ categories:
 - BetterOff
 author_profile: Rhea Cunio
 read_time: 2 mins
+author: Rhea Cunio
 ---
 
 It’s an exciting month for us at LookingLocal and Kirklees Council as we announce the go-live of our new Housing Benefit and Council Tax Reduction platform.
