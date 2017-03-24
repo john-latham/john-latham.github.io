@@ -25,4 +25,4 @@ The new HB/CTR platform sits alongside our BetterOff platform which has transfor
 We’ve worked with our partners at Govtech to ensure that the solution integrates with Kirklees Council’s own back-office systems (Northgate) but is also fully integrated with Civica and Academy.
 
 
-Read about the wider BetterOff platform [here](http://www.lookinglocal.gov.uk/solutions/betteroff/).
+Read about the wider BetterOff platform [here](https://about.lookinglocal.gov.uk/solutions/betteroff/).
