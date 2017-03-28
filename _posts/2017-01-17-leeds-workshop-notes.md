@@ -24,7 +24,7 @@ From Leeds City Council
 - Neil Robinson
 - Adam Kane
 
-From Looking Local
+From LookingLocal
 - Lianne Viney
 - John Latham
 

@@ -11,7 +11,7 @@ author: Guy Giles
 
 I've spent the last few weeks talking to various Managing Directors and Bid Managers who respond to tenders around healthy living, integrated lifestyles, long-term condition management, public health. I have also been invited to numerous 'market sounding' events run by local authorities - often in partnership with their CCG colleagues. For too long now I have become frustrated that these organisations don't 'think digital' in the way they commission these services, but I think I have woken up. This was my shortcoming - not theirs.
 
-I think I may be too digital for my own good; that is a badge of shame, not honour. I spend way too much time on my phone, my laptop, tablet. It consumes so much of my day that I've fallen into the trap of thinking that everyone does the same and I think I may have allowed it to skew my thinking around how we best share some of the work that we have done at Kirklees Council through Looking Local. 
+I think I may be too digital for my own good; that is a badge of shame, not honour. I spend way too much time on my phone, my laptop, tablet. It consumes so much of my day that I've fallen into the trap of thinking that everyone does the same and I think I may have allowed it to skew my thinking around how we best share some of the work that we have done at Kirklees Council through LookingLocal. 
 
 
 It's simply no good having something digital to offer in isolation - digital should be blended into real services on the ground, but only where digital improves the offer to the user. I know this of course - it's not exactly news but nonetheless our efforts to share our work have not been previously focused in this way.  

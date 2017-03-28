@@ -16,12 +16,12 @@ What are the opportunities for UK local authorities to develop solutions from cl
 I am interested in the reuse of successful technology solutions between UK local authorities.
 
 This is partly inspired by the [LocalGov Digital](http://localgovdigital.info/) network, which I've recently joined via 
-its Slack channel, but also by the history of Looking Local which has been run as a traded service by Kirklees Council 
+its Slack channel, but also by the history of LookingLocal which has been run as a traded service by Kirklees Council 
 since around 2006 to help spread the costs of technology development.
 
 **What are we doing?**
 
-Looking Local makes heavy use of cloud services to build and host its products. The most important of these is Amazon Web Services, on which we run around 50 virtual web servers (Apache Tomcat) 
+LookingLocal makes heavy use of cloud services to build and host its products. The most important of these is Amazon Web Services, on which we run around 50 virtual web servers (Apache Tomcat) 
 and a number of database servers.
 
 In addition to AWS our products have the following SaaS dependencies: Contentful (API-first content management), elastic.co (website search), Esendex (push messaging), Github (software change management), Google Cloud Platform (real-time databases and big data), and Travis (continuous integration).

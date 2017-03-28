@@ -77,7 +77,7 @@ Outside public sector, the "API economy" is well-established. Time to market is 
 
 Many of these products are developed by US companies primarily targeting US private sector customers. Consequently, these products often to do not meet the strict requirements of the UK public sector who have greater statutory obligations than the typical private sector SaaS customer.
 
-For instance, in early 2015 Looking Local evaluated eight Forms as a Service (FaaS) products with significant market presence share (not specifically in UK public sector) which are designed to allow non-programmers to develop forms capability. Of those eight, only two claimed to be compliant with section 508 (as US Federal govt standard) or the W3C Web Content Accessibility Guidelines (WCAG). The remaining two products stored data outside the EU, and neither of those were signed up to the Safe Harbour Privacy Principles in force at the time to regulate EU-US data transfers.
+For instance, in early 2015 LookingLocal evaluated eight Forms as a Service (FaaS) products with significant market presence share (not specifically in UK public sector) which are designed to allow non-programmers to develop forms capability. Of those eight, only two claimed to be compliant with section 508 (as US Federal govt standard) or the W3C Web Content Accessibility Guidelines (WCAG). The remaining two products stored data outside the EU, and neither of those were signed up to the Safe Harbour Privacy Principles in force at the time to regulate EU-US data transfers.
 
 # Recent developments in the API economy
 

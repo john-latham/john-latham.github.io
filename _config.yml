@@ -1,5 +1,5 @@
 ---
-title: Looking Local Blogs
+title: LookingLocal Blogs
 timezone: UTC
 collections:
   posts:
@@ -30,7 +30,7 @@ defaults:
 locale: en
 title_separator: "-"
 name: 
-description: Looking Local | Solution architects to the public sector and beyond
+description: LookingLocal | Solution architects to the public sector and beyond
 url: https://blogs.lookinglocal.gov.uk
 baseurl: 
 repository: lookinglocal/lookinglocal.github.io

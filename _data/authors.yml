@@ -1,7 +1,7 @@
 John Latham:
   name: "John Latham"
   email: "john.latham@lookinglocal.gov.uk"
-  bio: "CTO, Looking Local"
+  bio: "CTO, LookingLocal"
   avatar: "/assets/images/author-jlatham.jpg"
 
 Lianne Viney:
@@ -13,18 +13,18 @@ Lianne Viney:
 Rhea Cunio:
   name: "Rhea Cunio"
   email: "rhea.cunio@lookinglocal.gov.uk"
-  bio: "Marketing and Communications, Looking Local"
+  bio: "Marketing and Communications, LookingLocal"
   avatar: "/assets/images/author-rcunio.jpg"
   twitter: "lookinglocal"
 
 Guy Giles:
   name: "Guy Giles"
   email: "guy.giles@lookinglocal.gov.uk"
-  bio: "CEO, Looking Local"
+  bio: "CEO, LookingLocal"
   avatar: "/assets/images/author-ggiles.jpg"
 
 Sheena Guthrie:
   name: "Sheena Guthrie"
   email: "sheena.guthrie@lookinglocal.gov.uk"
-  bio: "Analyst, Looking Local"
+  bio: "Analyst, LookingLocal"
   avatar: "/assets/images/author-sguthrie.jpg"
