@@ -170,3 +170,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+angular_version: 1.2.21
