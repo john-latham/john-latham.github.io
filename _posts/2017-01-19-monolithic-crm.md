@@ -34,9 +34,9 @@ This brings internal challenges, such as the time taken to migrate selected serv
 
 There are also important effects on user experience where different Council services present different features depending on which product they were implemented in. This isn't purely an issue of aesthetics or consistent navigation.
 
-A product may offer a sign-in solution to allow users to maintain a "citizen account" with the council. This may offer benefits to the user in terms of following up, but equally offers the Council a "single view of the customer".  When the system is introduced alongside anonymous services this isn't initially problematic. The Council can promote "My *Council name*" for new transactions in Digital360, and the others will continue as before without identity.
+A product may offer a sign-in solution to allow users to maintain a "citizen account" with the council. This may offer benefits to the user in terms of following up, but equally offers the Council a "single view of the customer".  When the system is introduced alongside anonymous services this isn't initially problematic. The Council can promote "My *Council name*" for new transactions in Contact360, and the others will continue as before without identity.
 
-The major issue comes when the Council wants to implement another solution that requires or offers identity and which does not integrate with out of the box with Digital360. "My *Council name*" is taken already - there can't be two of them.
+The major issue comes when the Council wants to implement another solution that requires or offers identity and which does not integrate out of the box with Contact360. "My *Council name*" is taken already - there can't be two of them.
 
 This is perfectly executed vendor lock-in, in which the choices are typically (a) use the same platform for all services regardless of fit, or (b) pay the vendor to integrate with an open identity solution (Verify, Okta, auth0 etc).
 
@@ -75,7 +75,7 @@ Besides which, there's no point in developing an integration-friendly product if
 
 Outside public sector, the "API economy" is well-established. Time to market is critical; vendors focus innovation on a narrow area of functionality. Typically supplied as “cloud services”, products require no on-premise management and are automatically upgraded and hardened to resist security threats. This reduces implementation costs and total cost of ownership. Customers leverage API integrations to complete the solutions. Lower-level “platform as service” (PaaS) offerings are built on to provide higher-value “software as a service” (SaaS) products.
 
-Many of these products are developed by US companies primarily targeting US private sector customers. Consequently, these products often to do not meet the strict requirements of the UK public sector who have greater statutory obligations than the typical private sector SaaS customer.
+Many of these products are developed by US companies primarily targeting US private sector customers. Consequently, these products often do not meet the strict requirements of the UK public sector who have greater statutory obligations than the typical private sector SaaS customer.
 
 For instance, in early 2015 LookingLocal evaluated eight Forms as a Service (FaaS) products with significant market presence share (not specifically in UK public sector) which are designed to allow non-programmers to develop forms capability. Of those eight, only two claimed to be compliant with section 508 (as US Federal govt standard) or the W3C Web Content Accessibility Guidelines (WCAG). The remaining two products stored data outside the EU, and neither of those were signed up to the Safe Harbour Privacy Principles in force at the time to regulate EU-US data transfers.
 
