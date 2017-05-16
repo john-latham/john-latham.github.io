@@ -35,7 +35,7 @@ Within the first year of being live BetterOff has made Stockport Council a £214
 
 BetterOff is part of Stockport Council’s wider initiative, which is to become “Digital by Design”. As part of this, Stockport has already re-designed its reception to become fully self-serve. Delegates were given a tour of Stockport’s Customer Reception at the end of the Show and Tell.
 
-[Read more about Stockport BetterOff here](Last Monday, Stockport Council hosted the latest BetterOff Show and Tell.) 
+[Read more about Stockport BetterOff here](https://about.lookinglocal.gov.uk/media/3012/stockport-case-study.pdf) 
 
 [Read more about BetterOff](https://about.lookinglocal.gov.uk/solutions/betteroff/)
 
