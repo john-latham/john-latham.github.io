@@ -24,10 +24,10 @@ Steve Bird, Customer Exchequer at Kirklees Council explained to delegates the re
 # Analysis
 Steve Langrick, Head of Online Strategy and Development talked about the detailed analysis that was undertaken before the development of BetterOff to ensure that self-serve didn’t mean that any vulnerable people “fell through the net”. Kirklees identified three different claimant levels; 40% of which are able to self-serve independently, 30% which need some support and the remaining 30% that are considered complex or vulnerable cases that will still need face-to-face support from an advisor. From this analysis they could estimate that 70% of claimants would be able to self-serve given the right digital tools, hence BetterOff Kirklees was developed. With 70% of claimants using self-serve it means that qualified advisers are then able to spend more face-to-face time with the more vulnerable case.
 
-#Headline Figures
+# Headline Figures
 In terms of savings, Kirklees Council has reported that last financial year it made a cashable saving of £500,000 from it’s advice budget. There was also a review of the most recent statistics since the launch date on the 15th October 2015 which included: over 14000 unique visitors to the BetterOff Kirklees platform, monetary gains of over £8.9million and specialist advice requests dropped by 50%. 
 
-#BetterOff Stockport
+# BetterOff Stockport
 Colin Masters, Information Advice and Guidance Manager at Stockport Council gave delegates a presentation on the implementation of Stockport BetterOff. With an average annual caseload of 47,000 Stockport Council was dealing with 260 face-to-face appointments and over 600 telephone enquiries a week for benefits and welfare. Colin explained how Stockport came to the conclusion that they there were unable to still provide this same level of advice to all claimants and needed to channel shift the majority of customer to an online service. 
 
 Stockport began to implement BetterOff in March 2016 and went live 4-months later in July. A comprehensive BetterOff training programme developed by Stockport Council, with the help of LookingLocal was delivered to staff and partners across the borough. 
