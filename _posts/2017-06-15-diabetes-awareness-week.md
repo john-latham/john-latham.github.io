@@ -1,5 +1,5 @@
 ---
-title: Diabete Awareness Week
+title: Diabetes Awareness Week
 date: 2017-06-15 00:00:00 Z
 categories:
 - Health
