@@ -5,7 +5,7 @@ categories:
 - Health
 author: Sheena Guthrie
 excerpt: Kirklees Council is taking an innovative, two-pronged approach to tackling
-  diabetes using two digital platforms that employ cognitive behavioural techniques
+  diabetes using two digital platforms that employ cognitive behavioural techniques.
 ---
 
 The UK has for years been aware of the rapidly climbing costs diabetes has to society, the prevalence of which is predicted to rise. To address this, there have been numerous campaigns aimed primarily at promoting healthy weight and increasing activity in the general population. These have largely been educative, supplying people with information about why they need to change their lifestyle, what they could do and where they can go to do activities. All very important, but the question of how to make lasting changes to behaviour remains unanswered for many.
