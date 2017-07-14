@@ -11,13 +11,11 @@ tags:
 - scanning
 - digital
 - solutions
-author: 'Chris Hamill '
-Exerpt: Last Thursday, LookingLocal hosted another successful Show and Tell event,
-  bringing delegates from local authorities across the country together to showcase
-  ScanStation.
 ---
 
-Last Thursday, LookingLocal hosted another successful Show and Tell event, bringing delegates from local authorities across the country together to showcase ScanStation, the integrated and transformative solution that delivers self-serve customer scanning for all kinds of documents and supporting evidence. The day consisted of presentations, discussions, and a hands-on demonstration to fully understand how ScanStation could benefit local authorities. 
+Last Thursday, LookingLocal hosted another successful Show and Tell event, bringing delegates from local authorities across the country together to showcase ScanStation, the integrated and transformative solution that delivers self-serve customer scanning for all kinds of documents and supporting evidence.
+
+The day consisted of presentations, discussions, and a hands-on demonstration to fully understand how ScanStation could benefit local authorities. 
  
 The day was hosted by Steve Langrick, Head of Online, Channel Strategy & Development and Diane Chapman, Customer Service Centres Manager, both from Kirklees Council, LookingLocal’s New Business Manager Andrew Jackson, and Paul Meyers, our Business Analyst. These presenters highlighted the practical and business benefits of ScanStation, and answered questions about the opportunities it presents for the attending delegates. The highly interactive session gave delegates opportunities to delve into the details of the product, and look at how they might be able to use it to their specific advantages.
  
