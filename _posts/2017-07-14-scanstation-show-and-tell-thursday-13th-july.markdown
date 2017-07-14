@@ -12,7 +12,7 @@ tags:
 - digital
 - solutions
 author: 'Chris Hamill '
-exerpt: Last Thursday, LookingLocal hosted another successful Show and Tell event,
+excerpt: Last Thursday, LookingLocal hosted another successful Show and Tell event,
   bringing delegates from local authorities across the country together to showcase
   ScanStation.
 ---
