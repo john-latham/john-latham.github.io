@@ -11,6 +11,10 @@ tags:
 - scanning
 - digital
 - solutions
+author: 'Chris Hamill '
+Exerpt: Last Thursday, LookingLocal hosted another successful Show and Tell event,
+  bringing delegates from local authorities across the country together to showcase
+  ScanStation.
 ---
 
 Last Thursday, LookingLocal hosted another successful Show and Tell event, bringing delegates from local authorities across the country together to showcase ScanStation, the integrated and transformative solution that delivers self-serve customer scanning for all kinds of documents and supporting evidence. The day consisted of presentations, discussions, and a hands-on demonstration to fully understand how ScanStation could benefit local authorities. 
