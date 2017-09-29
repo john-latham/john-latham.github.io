@@ -1,6 +1,14 @@
 ---
 title: 'Prevention: Is it really supported?'
 date: 2017-09-29 10:41:00 Z
+categories:
+- Health
+tags:
+- health
+- prevention
+- solutions
+- outcomes
+- long-term conditions
 author_profile: true
 ---
 
