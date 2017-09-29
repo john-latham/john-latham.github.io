@@ -10,7 +10,7 @@ tags:
 - outcomes
 - commissioning
 - digital
-author_profile: Sheena Guthrie
+author_profile: true
 ---
 
 It’s easy to agree that prevention is better than cure when it comes to bettering the health of the population. Leading health organisations have recently published literature encouraging health services to increase their focus on prevention, with a view to saving money and reducing other costs to the economy. 
