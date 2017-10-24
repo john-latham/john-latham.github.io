@@ -40,3 +40,9 @@ Ultimately, these concerns amounted to nothing. Queues in Kirklees’ contact ce
 The day concluded with a tour of Kirklees’ customer contact centre, with a hands-on demonstration delivered by staff in the council building. Seeing customers using the self-scanners was the perfect illustration – visitors saw first hand the public using the technology naturally, and the concern that some people might not use it was debunked. Delegates also had an opportunity to discuss at length with the frontline staff, who lauded ScanStation as the technology that allowed them to work with those vulnerable customers who really need their support.
 
 ![20171020_134828.jpg](/uploads/20171020_134828.jpg)
+
+If you are interested in attending any of our future events or would like to book a demonstration of ScanStation, please email scanstation@lookinglocal.gov.uk.
+
+[Read more about Kirklees Council’s Digital Strategy here.](https://www.kirklees.gov.uk/beta/delivering-services/pdf/digital-connectivity-strategy.pdf)
+
+[Read more about ScanStation here.](https://about.lookinglocal.gov.uk/solutions/scanstation/)
