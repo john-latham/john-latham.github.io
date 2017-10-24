@@ -29,6 +29,8 @@ Andrew Jackson, LookingLocal’s New Business Manager, took over from Steve to g
 
 There was expectations among the delegates that some people might struggle to use the tablets, but Andrew pointed out that similar technology is already pervasive throughout our lives - we self scan our shopping, and we have to go out of our way to be served by an actual person in Argos or McDonald’s.
 
+![20171020_135401.jpg](/uploads/20171020_135401.jpg)
+
 ## Transforming Frontline Services
 
 Following a much awaited buffet lunch, Diane Chapman, Kirklees’ Customer Contact Centre Manager, took over to give a first hand account of how ScanStation had affected their front line services. She told the audience that prior to implementing ScanStation, she shared some of the same concerns that they were articulating at the Show and Tell: She worried about ID verification and authenticity of documents, she was concerned that customers might not be capable of using the devices, and that back office work was going to be more difficult, with poor quality documents and difficulty indexing against a customer’s file.
