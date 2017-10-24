@@ -15,6 +15,8 @@ tags:
 
 **Our Show and Tell events give local authorities a unique chance to see ScanStation in person, speak with the Kirklees team who work with it on a daily basis, and to find out more about the development of the product itself. Our latest event, which took place on Friday the 20th October, was another success. Taking place in the impressive Reception room at Kirklees Town Hall, over 20 delegates from the public and private sector came together to find out more about ScanStation.**
 
+![20171020_114219.jpg](/uploads/20171020_114219.jpg)
+
 ## Outlining the Vision
 
 Steve Langrick, Kirklees Council’s Head of Online, Channel Strategy & Development, kicked off the day. As one of the key figures in Kirklees’ wider digital transformation, Steve began by outlining his vision for digital transformation at Kirklees, of which ScanStation is an integral part. “We’re about getting people to do more for themselves and for each other”, said Steve, and this approach has defined Kirklees’ strides across council services. Kirklees want to improve efficiency, make savings in the face of budget cuts, while ensuring they “provide a safety net for the most vulnerable in society.”
@@ -25,7 +27,7 @@ At Kirklees, this transformation looks like a shift to online and telephone serv
 
 Andrew Jackson, LookingLocal’s New Business Manager, took over from Steve to give a nuts and bolts demonstration of ScanStation. He delved into the range of possibilities it presents for councils aiming to tackle high footfall, long queues and low customer satisfaction, particularly emphasizing how ScanStation can be used across departments, to process anything from housing benefit applications to license renewals.
 
-There was expectations among the delegates that some people might struggle to use the tablets, but Andrew pointed out that similar technology is already pervasive throughout our lives - we self scan our shopping, and we have to go out of our way to be served by an actual person in Argos or McDonald’s. 
+There was expectations among the delegates that some people might struggle to use the tablets, but Andrew pointed out that similar technology is already pervasive throughout our lives - we self scan our shopping, and we have to go out of our way to be served by an actual person in Argos or McDonald’s.
 
 ## Transforming Frontline Services
 
@@ -36,3 +38,5 @@ Ultimately, these concerns amounted to nothing. Queues in Kirklees’ contact ce
 ## Demonstrating ScanStation
 
 The day concluded with a tour of Kirklees’ customer contact centre, with a hands-on demonstration delivered by staff in the council building. Seeing customers using the self-scanners was the perfect illustration – visitors saw first hand the public using the technology naturally, and the concern that some people might not use it was debunked. Delegates also had an opportunity to discuss at length with the frontline staff, who lauded ScanStation as the technology that allowed them to work with those vulnerable customers who really need their support.
+
+![20171020_134828.jpg](/uploads/20171020_134828.jpg)
