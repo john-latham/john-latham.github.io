@@ -1,6 +1,22 @@
 ---
 title: BetterCare Show and Tell - Wednesday 9th of May
 date: 2018-05-21 12:08:00 Z
+categories:
+- blog
+- bettercare
+- showandtell
+tags:
+- BetterCare
+- adult social care
+- ASC
+- financial assessments
+- kirklees council
+- kirklees
+- looking local
+- lookinglocal
+- communication
+- health
+- care
 ---
 
 **Our Show and Tell events give local authorities a unique chance to speak with the Kirklees team that are using BetterCare, and to find out more about the development of the product itself. Our latest event on Wednesday 9th of May was another success, and the first Show and Tell event to focus solely on BetterCare.**
