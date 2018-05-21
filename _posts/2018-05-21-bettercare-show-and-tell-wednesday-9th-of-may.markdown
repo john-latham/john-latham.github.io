@@ -31,7 +31,7 @@ This commitment to improving services ultimately led to BetterCare’s successfu
 
 ## Demonstrating the Platform
 
-![32977056_10216607547044554_306121895646855168_n.jpg](/uploads/32977056_10216607547044554_306121895646855168_n.jpg)
+![32977056_10216607547044554_306121895646855168_n-73378a.jpg](/uploads/32977056_10216607547044554_306121895646855168_n-73378a.jpg)
 
 Following Steve, Paul Meyers, Senior Analyst for Looking Local, did a live demonstration of the platform. After showing how the mini and full length assessment forms work and the tools/guidance in place to assist self-serve, Paul faced questions from delegates.
 
