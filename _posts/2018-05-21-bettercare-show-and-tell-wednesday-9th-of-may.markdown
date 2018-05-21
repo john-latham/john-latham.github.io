@@ -33,12 +33,11 @@ This commitment to improving services ultimately led to BetterCare’s successfu
 
 ![32977056_10216607547044554_306121895646855168_n.jpg](/uploads/32977056_10216607547044554_306121895646855168_n.jpg)
 
-Following Steve, Paul Meyers, Senior Analyst for Looking Local, did a live demonstration of the platform. After showing how the mini and full length assessment forms work and the tools/guidance in place to assist self-serve, Paul faced questions from delegates. 
+Following Steve, Paul Meyers, Senior Analyst for Looking Local, did a live demonstration of the platform. After showing how the mini and full length assessment forms work and the tools/guidance in place to assist self-serve, Paul faced questions from delegates.
 
 Clearly very concerned about the wellbeing of their citizens, questions focused on safeguarding, and much like Steve’s approach, in guaranteeing their citizens can always access the care they need. Some were concerned that the online approach might allow people to ‘fall through the net’, but it became clear that in practice, with 80% of people self-serving, then Kirklees staff can spend more time making sure the most vulnerable people really are receiving all the care that they need, and prevents them missing out on the care they need.
 
 ## Perspectives from the Front Line
-
 
 To conclude the day, Kim Draper, Project Officer at Kirklees Council, spoke about her and her staff’s experience on the front line of care delivery, and how using BetterCare has affected their day-to-day services.
 
@@ -46,4 +45,4 @@ She told delegates about how their old paper-based system of carrying out financ
 
 [Read more about BetterCare here.](https://about.lookinglocal.gov.uk/solutions/bettercare/)
 
-
+**If you are interested in attending any of our future events or would like to book a demonstration of BetterCare, please email chris.hamill@lookinglocal.gov.uk.**
