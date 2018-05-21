@@ -30,10 +30,9 @@ Steve Bird, Head of Welfare and Exchequer Services at Kirklees Council, kicked o
 This commitment to improving services ultimately led to BetterCare’s successful implementation at Kirklees Council, and they began tackling financial assessments for care using a self-service approach. This came with its own challenges, though. Specifically, Steve Bird explains, they knew they needed to not just change the system, but change the culture at the Council. To do this, management had to be on board and see the benefits it would bring in providing a higher quality of service.
 
 ## Demonstrating the Platform
-
 ![32977056_10216607547044554_306121895646855168_n-73378a.jpg](/uploads/32977056_10216607547044554_306121895646855168_n-73378a.jpg)
 
-Following Steve, Paul Meyers, Senior Analyst for Looking Local, did a live demonstration of the platform. After showing how the mini and full length assessment forms work and the tools/guidance in place to assist self-serve, Paul faced questions from delegates.
+Following Steve, Paul Meyers, Senior Analyst for Looking Local, gave a live demonstration of the platform. After showing how the mini and full length assessment forms work and the tools/guidance in place to assist self-serve, Paul faced questions from delegates.
 
 Clearly very concerned about the wellbeing of their citizens, questions focused on safeguarding, and much like Steve’s approach, in guaranteeing their citizens can always access the care they need. Some were concerned that the online approach might allow people to ‘fall through the net’, but it became clear that in practice, with 80% of people self-serving, then Kirklees staff can spend more time making sure the most vulnerable people really are receiving all the care that they need, and prevents them missing out on the care they need.
 
